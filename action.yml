@@ -3,4 +3,4 @@ description: "Use this action from other workflows in your organization."
 
 runs:
   using: "node16"
-  main: "src/index.js"
+  main: "index.js"
